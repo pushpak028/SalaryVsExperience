@@ -1,4 +1,4 @@
-# SalaryVsExperience
+#How_to_predict_salary_using_slr
 in this file you may see an linear regression output.
 my dataset consist of two columns experience and salary
 i consider salary as y coordinate and experience as x coordinate 
